@@ -3,7 +3,7 @@
 
 # Sber Dusha Voice Analysis
 
-![alt text](<[image.png](https://github.com/anpilove/SberDushaVoiceAnalysis/blob/main/streamlit/screenshot.png)>)
+![alt text](https://github.com/anpilove/SberDushaVoiceAnalysis/blob/main/streamlit/screenshot.png)
 
 ==============================
 
